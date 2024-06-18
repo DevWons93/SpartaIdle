@@ -1,0 +1,2 @@
+# SpartaIdle
+Idle
